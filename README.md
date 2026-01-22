@@ -1,2 +1,2 @@
-# KuroshioVariabilityAssesment
+# KuroshioVariabilityAssessment
 The codes used to assess the variability of surface ocean currents, salinity, and temperature, specifically in the Sanriku region, from 2015 to 2025. The required datasets are ocean current, salinity, and temperature in NetCDF format. For this study, we utilized freely available data from the Hybrid Coordinate Ocean Model (HYCOM) Global 1/12° (GLBy0.08), which can be accessed via the following link: https://www.hycom.org/dataserver.
